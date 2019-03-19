@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # wxpg-todo
 
 > A Mpvue project
@@ -35,3 +36,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+#   微信小程序——TODOList
+    此项目为微信应用开发的课内项目
+>>>>>>> bba836f9b30e118b383d8431a3496ce86ce33fdf
